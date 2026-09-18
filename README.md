@@ -17,4 +17,4 @@ Web-Techonologies/
 Repository for Web Technologies coursework at Lahore Garrison University.
 
 ## Live Assignments
-* 🌐 **Assignment 1 Live Demo:** [View Assignment 1](https://devops-aftab.github.io/Web-Technologies/Assignment%231/)
+* 🌐 <strong>Assignment 1 Live Demo:</strong> <a href="https://devops-aftab.github.io/Web-Technologies/Assignment%231/" target="_blank">Click Here to View Assignment 1</a>
