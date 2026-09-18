@@ -11,3 +11,10 @@ Web-Techonologies/
 │   ├── style.css
 │   └── Images/
 └── README.md
+
+# Web Technologies
+
+Repository for Web Technologies coursework at Lahore Garrison University.
+
+## Live Assignments
+* 🌐 **Assignment 1 Live Demo:** [View Assignment 1](https://devops-aftab.github.io/Web-Technologies/Assignment%231/)
